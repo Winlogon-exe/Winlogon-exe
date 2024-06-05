@@ -6,6 +6,5 @@
   <img width="49%" height="300px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Winlogon-exe&include_orgs=true&show_icons=true&count_private=true&hide_border=true&title_color=0080FF&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="49%" height="285px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Winlogon-exe&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&count_private=true&hide_border=true&title_color=0080FF&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
   <br>
-  <h3 align="center">Motivational Quotes</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
