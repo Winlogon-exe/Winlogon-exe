@@ -10,10 +10,6 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 
 
-## Projects
-[![TimerTracker](https://img.shields.io/badge/-TimerTracker-000?&logo=c%2B%2B)](https://github.com/Winlogon-exe/TimeTracker)
-[![EvoVulkan](https://img.shields.io/badge/-Archiver-000?&logo=c%2B%2B)](https://github.com/Winlogon-exe/Zipster)
-
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winlogon-exe&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
