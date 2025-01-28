@@ -13,7 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        20 mins         ███████████████████░░░░░░   76.14 %
+YAML       6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
