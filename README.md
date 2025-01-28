@@ -10,16 +10,6 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 
 
-<!--START_SECTION:waka-->
-
-```txt
-C++        20 mins         ███████████████████░░░░░░   76.14 %
-YAML       6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winlogon-exe&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
