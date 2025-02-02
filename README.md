@@ -13,6 +13,9 @@
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winlogon-exe&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!-- [CV_path]: path
 [CV]: https://img.shields.io/badge/CV-D3182A?style=for-the-badge&logoColor=white -->
