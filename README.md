@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Git Config   19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-C++          12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-TypeScript   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-TOML         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
