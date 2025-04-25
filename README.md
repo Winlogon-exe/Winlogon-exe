@@ -16,7 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++              1 hr 23 mins    █████████████████████▓░░░   86.80 %
+Other            9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Text             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
